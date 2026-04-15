@@ -1,11 +1,5 @@
 # Plaid PHP SDK
 
-[![Test Suite](https://github.com/eliosfund/plaid-php-sdk/actions/workflows/tests.yml/badge.svg)](https://github.com/eliosfund/plaid-php-sdk/actions/workflows/tests.yml)
-![Downloads](https://img.shields.io/packagist/dm/eliosfund/plaid-php-sdk)
-![Packagist Version](https://img.shields.io/packagist/v/eliosfund/plaid-php-sdk)
-![GitHub License](https://img.shields.io/github/license/eliosfund/plaid-php-sdk)
-[![codecov](https://codecov.io/gh/eliosfund/plaid-php-sdk/graph/badge.svg?token=4L6n4NLODB)](https://codecov.io/gh/eliosfund/plaid-php-sdk)
-
 A PHP package to help kickstart your next [Plaid](https://plaid.com) integration.
 
 ## Introduction
@@ -26,7 +20,7 @@ The Plaid PHP SDK is a PHP package that provides a simple and easy-to-use interf
 You can install the package using [Composer](https://getcomposer.org):
 
 ```shell
-composer require eliosfund/plaid-php-sdk
+composer require xpendy-dev/plaid-php-sdk
 ```
 
 ## Getting Started
